@@ -4,8 +4,8 @@ This repository contains the materials for the Borůvka's Algorithm project, inc
 
 ## Project Structure
 
-- `Boruvkas_Algorithm_Report.pdf`: The technical report detailing the principles, pseudo code, complexity analysis, applications, and potential improvements of Borůvka's algorithm.
-- `Boruvkas_Algorithm_Source.py`: The Python source code implementing Borůvka's algorithm.
+- `Algorithms_that_Changed_the_World_Report.pdf`: The technical report detailing the principles, pseudo code, complexity analysis, applications, and potential improvements of Borůvka's algorithm.
+- `Boruvkas Algorithm.ipynb`: The Python source code implementing Borůvka's algorithm.
 - `Video_Demonstration.mp4`: A short video introducing Borůvka's algorithm and demonstrating the code execution (if the video is hosted online, the link will be provided within the report).
 
 ## Report Abstract
@@ -22,10 +22,10 @@ The video provides a concise background of Borůvka's algorithm, discusses its i
 
 ## Usage Instructions
 
-1. Read the `Boruvkas_Algorithm_Report.pdf` to understand the theoretical aspects of the algorithm.
-2. Review the `Boruvkas_Algorithm_Source.py` to familiarize yourself with the implementation details.
-3. Run the source code script in a Python environment to see the algorithm in action.
-4. Watch the `Video_Demonstration.mp4` for a guided tour of the project and to see the code demonstration (or use the provided link if the video is hosted online).
+1. Read the `Algorithms_that_Changed_the_World_Report.pdf` to understand the theoretical aspects of the algorithm.
+2. Review the `Boruvkas Algorithm.ipynb` to familiarize yourself with the implementation details.
+3. Run the code in a jupyter notebook or using a Python interpreter.
+4. Watch the `Video_Demonstration.mp4` for a guided tour of the project and to see the code demonstration.
 
 ## References
 
