@@ -1,51 +1,42 @@
-# Borůvka's Algorithm Project
+# ECM3428 Algorithms that Changed the World: Borůvka's Algorithm Project
 
-This repository contains the materials for the Borůvka's Algorithm project, including the technical report, source code implementation in Python, and a video demonstration of the algorithm and code execution.
+This repository contains the materials for the Borůvka's Algorithm project, a part of the ECM3428 - Algorithms that Changed the World module at the University of Exeter. This project comprises 40% of the overall module assessment and includes a technical report, source code implementation in Python, animated visualisations, and a video demonstration.
 
 ## Project Structure
 
-- `Algorithms_that_Changed_the_World_Report.pdf`: The technical report detailing the principles, pseudo code, complexity analysis, applications, and potential improvements of Borůvka's algorithm.
-- `Boruvkas Algorithm.ipynb`: The Python source code implementing Borůvka's algorithm.
-- `Video_Demonstration.mp4`: A short video introducing Borůvka's algorithm and demonstrating the code execution (if the video is hosted online, the link will be provided within the report).
+- `Algorithms_that_Changed_the_World_Report.pdf`: A technical report detailing Borůvka's algorithm's principles, pseudo code, complexity analysis, and applications.
+- `Algorithms_that_Changed_the_World_Presentation.pdf`: Slides presentation complementing the report.
+- `Boruvkas Algorithm.ipynb`: Python source code implementing Borůvka's algorithm, with comments and visualisations.
+- `animation`: Directory containing GIFs and PNGs showing the algorithm's execution steps.
+- `graph_pkl`: Pickle files storing graph data structures.
+- `link.txt`: External links to video demonstrations.
+- `mst graphs`: Directory of Minimum Spanning Tree (MST) visualisations in different scenarios.
+- `processed_graphs`: Processed graph data for real-world networks.
+- `real network data`: Original data of real-world networks with graphs and edge information.
+- `Video.mkv`: Video demonstration of Borůvka's algorithm and its applications.
 
 ## Report Abstract
 
-The report provides an in-depth analysis of Borůvka's algorithm, a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected graph. The principles, execution steps, and pseudo code are thoroughly explained. Additionally, the report includes a complexity analysis, discusses the limitations and constraints, and explores diverse applications of the algorithm in fields such as network design, cluster analysis, and more.
+The report delves into Borůvka's algorithm, a crucial technique in graph theory for finding MSTs. It covers the algorithm's execution steps, pseudo code, complexity, and applications in various domains like network design and cluster analysis. The report also discusses algorithmic limitations and potential improvements.
 
 ## Implementation
 
-The source code is written in Python and is fully commented to aid understanding. The implementation covers the algorithm's execution following the principles outlined in the report. To run the code, ensure that you have Python installed on your machine and execute the script using a Python interpreter.
+The Python code includes necessary libraries, defines nodes and edges, and implements Borůvka's algorithm with options for animation and visualisations. It demonstrates the algorithm on sample and real-world graphs, visualising both the original graphs and their corresponding MSTs.
 
 ## Video Demonstration
 
-The video provides a concise background of Borůvka's algorithm, discusses its importance, and walks through the source code implementation. It also includes a live demonstration of the code running and producing an MST from a sample graph.
+The video explains Borůvka's algorithm, its significance, and showcases the Python code's implementation and execution.
+
+## Animation Example
+
+Below is an animated visualisation of Borůvka's algorithm in action:
+
+![Bigger Example Animation](animation/Bigger_example_1702406889.gif)
+
 
 ## Usage Instructions
 
-1. Read the `Algorithms_that_Changed_the_World_Report.pdf` to understand the theoretical aspects of the algorithm.
-2. Review the `Boruvkas Algorithm.ipynb` to familiarize yourself with the implementation details.
-3. Run the code in a jupyter notebook or using a Python interpreter.
-4. Watch the `Video_Demonstration.mp4` for a guided tour of the project and to see the code demonstration.
-
-## References
-
-The report cites various sources in accordance with the IEEE citation style. All sources are listed at the end of the report document.
-
-## Declaration
-
-I certify that all material in this report which is not my own work has been identified and no material is included for which a degree has already been conferred on me.
-
-## Contact Information
-
-For any queries regarding this project, please contact me at [Your Email Address].
-
-## Submission Details
-
-- Student ID: [Your Student ID]
-- Candidate Number: [Your Candidate Number]
-- Initials: [Your Initials]
-
-
----
-
-This README is a guide for the Borůvka's Algorithm project as part of the [Course Name] coursework at [University Name].
+1. Read the `Algorithms_that_Changed_the_World_Report.pdf` for theoretical knowledge of the algorithm.
+2. Explore `Boruvkas Algorithm.ipynb` for practical implementation and visualisation.
+3. Watch `Video.mkv` for a comprehensive understanding and demonstration.
+4. Examine the `animation` and `mst graphs` directories for visual insights.
