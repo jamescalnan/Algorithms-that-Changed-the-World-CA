@@ -1,5 +1,7 @@
 # ECM3428 Algorithms that Changed the World: Borůvka's Algorithm Project
 
+## Grade 69/100
+
 This repository contains the materials for the Borůvka's Algorithm project, a part of the ECM3428 - Algorithms that Changed the World module at the University of Exeter. This project comprises 40% of the overall module assessment and includes a technical report, source code implementation in Python, animated visualisations, and a video demonstration.
 
 ## Project Structure
